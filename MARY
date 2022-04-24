@@ -6,7 +6,7 @@
 
 
 
-#EXTINF:-1,MOZ DNCE e.d.m.o.nst
+#EXTINF:-1,MOZ DNCE 7056 e.d.m.onst
 http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7056/index.m3u8
 
 
@@ -49,11 +49,16 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7056/index.m3u8
 #EXTINF:-1,AGHANINA
 
 
-#EXTINF:-1,TRT B
+
+#EXTINF:-1,DOGA
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/2074/index.m3u8
 
 
-#EXTINF:-1,BBC EARTH
+#EXTINF:-1,TRT B 6852
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6852/index.m3u8
 
+#EXTINF:-1,BBC EARTH 6854
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6854/index.m3u8
 
 
 #EXTINF:-1,NAT WILD
@@ -61,8 +66,8 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7056/index.m3u8
 
 .
 
-#EXTINF:-1,LOVE NATURE
-
+#EXTINF:-1,LOVE NATURE 6864
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6864/index.m3u8
 
 
 #EXTINF:-1,VIASAT NATURE
@@ -76,41 +81,44 @@ http://a709ef1b.edmonst.net/iptv/6BYCQBT6HX2PNY/7056/index.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE
 
 
-
-#EXTINF:-1,CNN TURK
-
-
-
-#EXTINF:-1,HABER GLOBAL
+#EXTINF:-1,DAVINCI 6858
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6858/index.m3u8
 
 
-
-#EXTINF:-1,HABER TURK
-
-
-
-#EXTINF:-1,
+#EXTINF:-1,CNN TURK 6926
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6926/index.m3u8
 
 
+#EXTINF:-1,HABER GLOBAL 6928
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6928/index.m3u8
 
 
-#EXTINF:-1,
+#EXTINF:-1,HABER TURK 6927
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6927/index.m3u8
 
+
+#EXTINF:-1,TGRT HABER 6932
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6932/index.m3u8
 
 
 
-#EXTINF:-1,
+#EXTINF:-1,TRT HABER 6921
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6921/index.m3u8
 
 
 
-
-#EXTINF:-1,
-
-
+#EXTINF:-1,TV NET 6936
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6936/index.m3u8
 
 
-#EXTINF:-1,
 
+#EXTINF:-1,TV 100 6929
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6929/index.m3u8
+
+
+
+#EXTINF:-1,TV 5 6751
+http://2528ba8d.rossteleccom.net/iptv/SRK3B2A7U2TNXM/6751/index.m3u8
 
 
 
